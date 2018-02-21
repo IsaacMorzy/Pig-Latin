@@ -6,8 +6,8 @@ An application that counts the number of vowels in a string
     *Output:1
 
   2.  The program recognizes a single vowel regardless of case:
-    *Input:"O"
-    *Output:1
+    2a. Input:"O"
+    2b. Output:1
 
   3.  The program recognizes a single vowel in a multiple-character word:
     *Input:"cat"
